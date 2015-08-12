@@ -66,7 +66,7 @@ Argument ordering example
     $ dataserv-client.py --address=1Dnpy4qd5XSsiAgwX8EqYbR2DLV2kB1Kha --max_size=2147483648 build --cleanup
 
 
-Show programm help, optional arguments and commands
+Show program help, optional arguments and commands
 ---------------------------------------------------
 
 ::
@@ -77,10 +77,10 @@ Show programm help, optional arguments and commands
                               [--debug]
                               <command> ...
 
-    Dataserve client command-line interface.
+    Dataserv client command-line interface.
 
     optional arguments:
-      -h, --help            show this help message and exit
+      -h, --help            Show this help message and exit
       --address ADDRESS     Required bitcoin address.
       --url URL             Url of the farmer (default: http://104.236.104.117).
       --max_size MAX_SIZE   Maximum data size in bytes. (default: 1073741824).
