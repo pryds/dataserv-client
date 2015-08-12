@@ -28,7 +28,7 @@ Ubuntu Linux
 ::
 
     $ sudo apt-get install python3-pip
-    $ sudo pip3 install dataserv-client 
+    $ sudo pip3 install git+https://github.com/Storj/dataserv-client.git 
     $ dataserv-client version
 
 OSX
